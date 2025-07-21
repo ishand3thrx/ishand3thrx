@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan!</h1>
 
----
-
 ### 🚀 About Me
 💻 Software Engineer with 3+ years experience across gaming & healthcare  
 🔧 Skilled in building real-time systems, microservices, and mobile apps  
